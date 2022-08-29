@@ -12,6 +12,10 @@ public class Log4jex {
 		log.fatal("Logging fatal");
 		log.error("Logging Error");
 		log.warn("Logging Warn");
+		log.info("Hi Priyanka");
+		log.debug("Priyanka Happy");
+		log.fatal("Hi divya");
+		
 	}
 	
 
